@@ -1,0 +1,2631 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;\red234\green234\blue234;
+\red255\green255\blue255;\red83\green83\blue83;\red37\green51\blue217;\red255\green255\blue193;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c100000\c100000\c100000\c20000;\cssrgb\c93333\c93333\c93333;
+\cssrgb\c100000\c100000\c100000;\cssrgb\c40000\c40000\c40000;\cssrgb\c19608\c30980\c88235;\cssrgb\c100000\c100000\c80000;}
+\margl1440\margr1440\vieww17540\viewh10740\viewkind0
+\deftab720
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat3 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat3 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat3 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat3 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat6 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat3 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat3 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat3 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat3 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat3 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat3 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat3 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat3 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat3 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat3 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat3 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat3 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat3 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat3 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat3 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat3 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat3 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat3 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat3 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat3 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat3 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+
+\f0\b\fs22 \cf2 \expnd0\expndtw0\kerning0
+\'a0Name\cell 
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 Team\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 G\cell 
+\pard\intbl\itap1\pardeftab720\sl300\qc\partightenfactor0
+
+\f1\b0\fs24 \cf4 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\b\fs22 \cf5 QBRat
+\f1\b0\fs24 \cf4 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl220\qr\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/stats/byposition?pos=QB&conference=NFL&year=season_2016&sort=1&timeframe=ToDate"}}{\fldrslt 
+\f0\b\fs20 \cf7 Comp}}\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl220\qr\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/stats/byposition?pos=QB&conference=NFL&year=season_2016&sort=2&timeframe=ToDate"}}{\fldrslt 
+\f0\b\fs20 \cf7 Att}}\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl220\qr\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/stats/byposition?pos=QB&conference=NFL&year=season_2016&sort=41&timeframe=ToDate"}}{\fldrslt 
+\f0\b\fs20 \cf7 Pct}}\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl220\qr\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/stats/byposition?pos=QB&conference=NFL&year=season_2016&sort=4&timeframe=ToDate"}}{\fldrslt 
+\f0\b\fs20 \cf7 Yds}}\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl220\qr\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/stats/byposition?pos=QB&conference=NFL&year=season_2016&sort=42&timeframe=ToDate"}}{\fldrslt 
+\f0\b\fs20 \cf7 Y/G}}\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl220\qr\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/stats/byposition?pos=QB&conference=NFL&year=season_2016&sort=43&timeframe=ToDate"}}{\fldrslt 
+\f0\b\fs20 \cf7 Y/A}}\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl220\qr\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/stats/byposition?pos=QB&conference=NFL&year=season_2016&sort=5&timeframe=ToDate"}}{\fldrslt 
+\f0\b\fs20 \cf7 TD}}\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl220\qr\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/stats/byposition?pos=QB&conference=NFL&year=season_2016&sort=3&timeframe=ToDate"}}{\fldrslt 
+\f0\b\fs20 \cf7 Int}}\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl300\qc\partightenfactor0
+\cf4 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl220\qr\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/stats/byposition?pos=QB&conference=NFL&year=season_2016&sort=16&timeframe=ToDate"}}{\fldrslt 
+\f0\b\fs20 \cf7 Rush}}\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl220\qr\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/stats/byposition?pos=QB&conference=NFL&year=season_2016&sort=17&timeframe=ToDate"}}{\fldrslt 
+\f0\b\fs20 \cf7 Yds}}\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl220\qr\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/stats/byposition?pos=QB&conference=NFL&year=season_2016&sort=39&timeframe=ToDate"}}{\fldrslt 
+\f0\b\fs20 \cf7 Y/G}}\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl220\qr\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/stats/byposition?pos=QB&conference=NFL&year=season_2016&sort=40&timeframe=ToDate"}}{\fldrslt 
+\f0\b\fs20 \cf7 Avg}}\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl220\qr\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/stats/byposition?pos=QB&conference=NFL&year=season_2016&sort=18&timeframe=ToDate"}}{\fldrslt 
+\f0\b\fs20 \cf7 TD}}\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl300\qc\partightenfactor0
+\cf4 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl220\qr\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/stats/byposition?pos=QB&conference=NFL&year=season_2016&sort=8&timeframe=ToDate"}}{\fldrslt 
+\f0\b\fs20 \cf7 Sack}}\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl220\qr\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/stats/byposition?pos=QB&conference=NFL&year=season_2016&sort=9&timeframe=ToDate"}}{\fldrslt 
+\f0\b\fs20 \cf7 YdsL}}\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl300\qc\partightenfactor0
+\cf4 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl220\qr\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/stats/byposition?pos=QB&conference=NFL&year=season_2016&sort=47&timeframe=ToDate"}}{\fldrslt 
+\f0\b\fs20 \cf7 Fum}}\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl220\qr\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/stats/byposition?pos=QB&conference=NFL&year=season_2016&sort=48&timeframe=ToDate"}}{\fldrslt 
+\f0\b\fs20 \cf7 FumL}}\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl300\qc\partightenfactor0
+\cf4 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+
+\f0\fs22 \cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/8780"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Matt Ryan}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/atl"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 ATL}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 16\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 117.1
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 373\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 534\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 69.9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4944\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 309.0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 9.3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 38\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 35\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 117\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7.3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3.3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 37\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 235\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/5228"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Tom Brady}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/nwe"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 NWE}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 12\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 112.2
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 291\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 432\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 67.4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3554\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 296.2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 8.2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 28\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 28\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 64\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5.3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2.3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 15\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 87\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/29369"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Dak Prescott}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/dal"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 DAL}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 16\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 104.9
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 311\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 459\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 67.8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3667\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 229.2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 8.0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 23\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 57\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 282\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 17.6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4.9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 25\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 143\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/7200"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Aaron Rodgers}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/gnb"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 GNB}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 16\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 104.2
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 401\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 610\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 65.7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4428\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 276.8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7.3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 40\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 67\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 369\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 23.1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5.5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 35\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 246\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/5479"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Drew Brees}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/nor"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 NOR}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 16\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 101.7
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 471\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 673\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 70.0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5208\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 325.5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7.7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 37\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 15\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 23\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 20\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 1.3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 0.9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 27\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 184\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/23976"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Sam Bradford}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/min"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 MIN}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 15\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 99.3
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 395\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 552\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 71.6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3877\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 258.5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7.0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 20\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 20\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 53\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3.5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2.7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 37\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 276\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 10\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/25812"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Kirk Cousins}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/was"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 WAS}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 16\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 97.2
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 406\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 606\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 67.0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4917\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 307.3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 8.1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 25\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 12\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 34\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 96\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6.0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2.8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 23\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 190\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/27564"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Derek Carr}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/oak"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 OAK}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 15\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 96.7
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 357\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 560\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 63.8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3937\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 262.5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7.0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 28\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 39\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 70\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4.7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 1.8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 16\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 79\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/25711"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Andrew Luck}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/ind"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 IND}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 15\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 96.4
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 346\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 545\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 63.5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4240\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 282.7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7.8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 31\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 13\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 64\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 341\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 22.7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5.3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 41\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 268\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/28390"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Marcus Mariota}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/ten"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 TEN}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 15\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 95.6
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 276\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 451\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 61.2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3426\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 228.4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7.6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 26\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 60\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 349\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 23.3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5.8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 23\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 156\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/6770"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Ben Roethlisberger}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/pit"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 PIT}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 14\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 95.4
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 328\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 509\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 64.4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3819\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 272.8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7.5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 29\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 13\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 16\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 14\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 1.0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 0.9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 17\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 141\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/25718"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Ryan Tannehill}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/mia"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 MIA}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 13\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 93.5
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 261\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 389\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 67.1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2995\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 230.4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7.7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 19\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 12\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 39\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 164\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 12.6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4.2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 29\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 216\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/9265"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Matthew Stafford}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/det"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 DET}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 16\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 93.3
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 388\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 594\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 65.3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4327\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 270.4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7.3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 24\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 10\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 37\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 207\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 12.9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5.6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 37\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 216\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/25785"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Russell Wilson}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/sea"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 SEA}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 16\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 92.6
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 353\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 546\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 64.7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4219\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 263.7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7.7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 21\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 11\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 72\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 259\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 16.2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3.6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 41\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 293\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/24822"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Andy Dalton}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/cin"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 CIN}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 16\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 91.8
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 364\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 563\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 64.7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4206\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 262.9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7.5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 18\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 46\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 184\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 11.5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4.0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 41\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 264\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/7177"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Alex Smith}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/kan"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 KAN}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 15\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 91.2
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 328\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 489\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 67.1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3502\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 233.5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7.2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 15\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 48\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 134\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 8.9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2.8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 28\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 140\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/24823"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Colin Kaepernick}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/sfo"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 SFO}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 12\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 90.7
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 196\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 331\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 59.2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2241\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 186.8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6.8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 16\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 69\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 468\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 39.0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6.8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 36\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 207\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/24967"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Tyrod Taylor}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/buf"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 BUF}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 15\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 89.7
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 269\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 436\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 61.7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3023\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 201.5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6.9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 17\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 95\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 580\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 38.7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6.1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 42\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 192\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/6763"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Philip Rivers}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/lac"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 LAC}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 16\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 87.9
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 349\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 578\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 60.4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4386\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 274.1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7.6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 33\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 21\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 14\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 35\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2.2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2.5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 36\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 188\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/6337"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Carson Palmer}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/ari"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 ARI}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 15\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 87.2
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 364\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 597\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 61.0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4233\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 282.2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7.1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 26\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 14\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 14\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 38\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2.5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2.7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 40\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 281\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 14\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/28389"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Jameis Winston}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/tam"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 TAM}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 16\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 86.1
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 345\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 567\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 60.8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4090\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 255.6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7.2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 28\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 18\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 53\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 165\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 10.3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3.1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 35\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 239\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 10\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/6760"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Eli Manning}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/nyg"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 NYG}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 16\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 86.0
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 377\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 598\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 63.0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4027\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 251.7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6.7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 26\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 16\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 21\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 -9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 -0.6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 -0.4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 21\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 142\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/28638"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Trevor Siemian}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/den"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 DEN}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 14\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 84.6
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 289\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 486\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 59.5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3401\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 242.9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 7.0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 18\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 10\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 28\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 57\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4.1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2.0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 31\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 187\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/8795"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Joe Flacco}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/bal"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 BAL}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 16\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 83.5
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 436\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 672\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 64.9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4317\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 269.8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6.4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 20\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 15\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 21\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 58\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3.6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2.8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 33\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 243\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/29236"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Carson Wentz}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/phi"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 PHI}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 16\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 79.3
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 379\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 607\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 62.4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3782\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 236.4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6.2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 16\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 14\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 46\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 150\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 9.4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3.3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 33\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 213\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 14\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/27531"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Blake Bortles}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/jac"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 JAC}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 16\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 78.8
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 368\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 625\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 58.9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3905\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 244.1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6.2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 23\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 16\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 58\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 359\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 22.4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6.2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 34\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 197\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/26483"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Case Keenum}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/lar"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 LAR}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 10\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 76.4
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 196\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 322\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 60.9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2201\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 220.1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6.8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 11\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 20\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 51\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5.1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2.6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 23\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 140\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/24788"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Cam Newton}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/car"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 CAR}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 15\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 75.8
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 270\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 510\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 52.9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3509\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 233.9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6.9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 19\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 14\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 90\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 359\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 23.9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4.0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 36\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 277\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/25767"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Brock Osweiler}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/hou"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 HOU}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 15\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 72.2
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 301\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 510\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 59.0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2957\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 197.1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5.8\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 15\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 16\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 30\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 131\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 8.7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 4.4\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 27\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 206\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 5\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 1\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trwWidth15680\trftsWidth3 \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clcbpat5 \clwWidth2883\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx332
+\clvertalc \clcbpat5 \clwWidth765\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx664
+\clvertalc \clcbpat5 \clwWidth309\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx996
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1329
+\clvertalc \clcbpat8 \clwWidth947\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1661
+\clvertalc \clcbpat5 \clwWidth798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx1993
+\clvertalc \clcbpat5 \clwWidth540\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2326
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2658
+\clvertalc \clcbpat5 \clwWidth694\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx2990
+\clvertalc \clcbpat5 \clwWidth771\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3323
+\clvertalc \clcbpat5 \clwWidth505\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3655
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx3987
+\clvertalc \clcbpat5 \clwWidth392\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4652
+\clvertalc \clcbpat5 \clwWidth714\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4984
+\clvertalc \clcbpat5 \clwWidth546\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5316
+\clvertalc \clcbpat5 \clwWidth617\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5649
+\clvertalc \clcbpat5 \clwWidth555\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx5981
+\clvertalc \clcbpat5 \clwWidth420\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6313
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6646
+\clvertalc \clcbpat5 \clwWidth673\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx6978
+\clvertalc \clcbpat5 \clwWidth700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7310
+\clvertalc \clcbpat5 \clwWidth84\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7643
+\clvertalc \clcbpat5 \clwWidth616\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx7975
+\clmgf \clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8307
+\clmrg \clvertalc \clcbpat5 \clwWidth770\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl240\partightenfactor0
+\cf2 \'a0{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/players/7426"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 Ryan Fitzpatrick}}\cell 
+\pard\intbl\itap1\pardeftab720\sl300\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://sports.yahoo.com/nfl/teams/nyj"}}{\fldrslt 
+\fs25\fsmilli12692 \cf7 NYJ}}\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 14\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 \cb5 69.6
+\f1\fs24 \cb1 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+
+\f0\fs22 \cf2 228\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 403\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 56.6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 2710\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 193.6\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 6.7\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 12\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 17\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 33\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 130\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 9.3\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 3.9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 19\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 81\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qc\partightenfactor0
+\cf2 \'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 9\'a0\cell 
+\pard\intbl\itap1\pardeftab720\sl240\qr\partightenfactor0
+\cf2 1\cell 
+\pard\intbl\itap1\cell \lastrow\row
+}
