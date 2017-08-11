@@ -33,6 +33,6 @@ from bs4 import BeautifulSoup
 from pyth.plugins.rtf15.reader import Rtf15Reader
 from pyth.plugins.plaintext.writer import PlaintextWriter
 
-doc = Rtf15Reader.read(open('QB_season_2016.txt'))
+doc = Rtf15Reader.read(open('QB_season_2016.txt')) 
 
 print PlaintextWriter.write(doc).getvalue()
