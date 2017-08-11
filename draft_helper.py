@@ -30,9 +30,14 @@ from bs4 import BeautifulSoup
 # QB_season_2016.close()
 #
 # print(QB_2016_data)
-from pyth.plugins.rtf15.reader import Rtf15Reader
-from pyth.plugins.plaintext.writer import PlaintextWriter
 
-doc = Rtf15Reader.read(open('QB_season_2016.txt')) 
-
-print PlaintextWriter.write(doc).getvalue()
+data = open("football_stats.txt")
+to_print = data.read()
+data.close()
+print(to_print)
+# from pyth.plugins.rtf15.reader import Rtf15Reader
+# from pyth.plugins.plaintext.writer import PlaintextWriter
+#
+# doc = Rtf15Reader.read(open('football_stats.txt'))
+#
+# print PlaintextWriter.write(doc).getvalue()
