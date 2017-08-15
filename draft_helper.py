@@ -34,7 +34,9 @@ from bs4 import BeautifulSoup
 data = open("football_stats.txt")
 to_print = data.read()
 data.close()
-print(to_print)
+print(re.split('(\W)', to_print))
+
+
 # from pyth.plugins.rtf15.reader import Rtf15Reader
 # from pyth.plugins.plaintext.writer import PlaintextWriter
 #

@@ -72,9 +72,10 @@ TD
 2PT
 Total
 Lost
-Fan PtsD. Johnson
+Fan Pts
+D. Johnson
 RB
-Ari 
+Ari
 8
 
 -
@@ -111,9 +112,10 @@ Ari
 1
 4
 3
-260L. Bell
+260
+L. Bell
 RB
-Pit 
+Pit
 9
 
 -
@@ -150,9 +152,10 @@ Pit
 1
 3
 1
-251A. Brown
+251
+A. Brown
 WR
-Pit 
+Pit
 9
 
 -
@@ -189,9 +192,10 @@ Pit
 1
 1
 0
-204E. Elliott
+204
+E. Elliott
 RB
-Dal 
+Dal
 6
 
 -
@@ -228,9 +232,10 @@ Dal
 1
 4
 4
-251O. Beckham Jr.
+251
+O. Beckham Jr.
 WR
-NYG 
+NYG
 8
 
 -
@@ -267,9 +272,10 @@ NYG
 1.1
 2.1
 2.1
-211M. Evans
+211
+M. Evans
 WR
-TB 
+TB
 11
 
 -
@@ -306,9 +312,10 @@ TB
 2.1
 0
 0
-193L. McCoy
+193
+L. McCoy
 RB
-Buf 
+Buf
 6
 
 -
@@ -345,9 +352,10 @@ Buf
 1
 1
 1
-203J. Jones
+203
+J. Jones
 WR
-Atl 
+Atl
 5
 
 -
@@ -384,9 +392,10 @@ Atl
 1.1
 1.1
 1.1
-194M. Gordon
+194
+M. Gordon
 RB
-LAC 
+LAC
 9
 
 -
@@ -423,9 +432,10 @@ LAC
 0
 4
 2
-204J. Howard
+204
+J. Howard
 RB
-Chi 
+Chi
 9
 
 -
@@ -462,9 +472,10 @@ Chi
 0
 2
 0
-208J. Ajayi
+208
+J. Ajayi
 RB
-Mia 
+Mia
 11
 
 -
@@ -501,9 +512,10 @@ Mia
 0
 2
 1
-210A. Green
+210
+A. Green
 WR
-Cin 
+Cin
 6
 
 -
@@ -540,9 +552,10 @@ Cin
 0
 0
 0
-190D. Freeman
+190
+D. Freeman
 RB
-Atl 
+Atl
 5
 
 -
@@ -579,9 +592,10 @@ Atl
 0
 1
 1
-206J. Nelson
+206
+J. Nelson
 WR
-GB 
+GB
 8
 
 -
@@ -618,9 +632,10 @@ GB
 0
 0
 0
-190M. Thomas
+190
+M. Thomas
 WR
-NO 
+NO
 5
 
 -
@@ -657,9 +672,10 @@ NO
 0
 0
 0
-177D. Murray
+177
+D. Murray
 RB
-Ten 
+Ten
 8
 
 -
@@ -696,9 +712,10 @@ Ten
 0
 2
 0
-200L. Fournette
+200
+L. Fournette
 RB
-Jax 
+Jax
 8
 
 -
@@ -735,9 +752,10 @@ Jax
 0
 1
 1
-197T. Hilton
+197
+T. Hilton
 WR
-Ind 
+Ind
 11
 
 -
@@ -774,9 +792,10 @@ Ind
 0
 0
 0
-186D. Bryant
+186
+D. Bryant
 WR
-Dal 
+Dal
 6
 
 -
@@ -813,9 +832,10 @@ Dal
 0
 0
 0
-189D. Baldwin
+189
+D. Baldwin
 WR
-Sea 
+Sea
 6
 
 -
@@ -852,9 +872,10 @@ Sea
 1
 0
 0
-177L. Miller
+177
+L. Miller
 RB
-Hou 
+Hou
 7
 
 -
@@ -891,9 +912,10 @@ Hou
 0
 2
 1
-168T. Gurley
+168
+T. Gurley
 RB
-LAR 
+LAR
 8
 
 -
@@ -930,9 +952,10 @@ LAR
 0
 2
 2
-193I. Crowell
+193
+I. Crowell
 RB
-Cle 
+Cle
 9
 
 -
@@ -969,9 +992,10 @@ Cle
 0
 2
 1
-169A. Cooper
+169
+A. Cooper
 WR
-Oak 
+Oak
 10
 
 -
@@ -1008,9 +1032,10 @@ Oak
 2.1
 1.1
 1.1
-183D. Hopkins
+183
+D. Hopkins
 WR
-Hou 
+Hou
 7
 
 -
@@ -1047,9 +1072,10 @@ Hou
 1
 0
 0
-151B. Cooks
+151
+B. Cooks
 WR
-NE 
+NE
 9
 
 -
@@ -1086,9 +1112,10 @@ NE
 0
 0
 0
-173C. McCaffrey
+173
+C. McCaffrey
 RB
-Car 
+Car
 11
 
 -
@@ -1125,9 +1152,10 @@ Car
 0
 1
 1
-165J. Mixon
+165
+J. Mixon
 RB
-Cin 
+Cin
 6
 
 -
@@ -1164,9 +1192,10 @@ Cin
 0
 3
 2
-143D. Thomas
+143
+D. Thomas
 WR
-Den 
+Den
 5
 
 -
@@ -1203,9 +1232,10 @@ Den
 0
 0
 0
-169A. Rodgers
+169
+A. Rodgers
 QB
-GB 
+GB
 8
 
 -
@@ -1242,9 +1272,10 @@ GB
 4
 3
 2
-361R. Gronkowski
+361
+R. Gronkowski
 TE
-NE 
+NE
 9
 
 -
@@ -1281,9 +1312,10 @@ NE
 1.1
 1.1
 1.1
-154M. Gillislee
+154
+M. Gillislee
 RB
-NE 
+NE
 9
 
 -
@@ -1320,9 +1352,10 @@ NE
 0
 1
 1
-142T. Kelce
+142
+T. Kelce
 TE
-KC 
+KC
 10
 
 -
@@ -1359,9 +1392,10 @@ KC
 0
 2
 2
-138M. Lynch
+138
+M. Lynch
 RB
-Oak 
+Oak
 10
 
 -
@@ -1398,9 +1432,10 @@ Oak
 0
 1
 1
-159T. Brady
+159
+T. Brady
 QB
-NE 
+NE
 9
 
 -
@@ -1437,9 +1472,10 @@ NE
 3
 2
 0
-344T. Pryor Sr.
+344
+T. Pryor Sr.
 WR
-Was 
+Was
 5
 
 -
@@ -1476,9 +1512,10 @@ Was
 0
 1
 1
-173T. Montgomery
+173
+T. Montgomery
 RB
-GB 
+GB
 8
 
 -
@@ -1515,9 +1552,10 @@ GB
 0
 2
 2
-131S. Watkins
+131
+S. Watkins
 WR
-Buf 
+Buf
 6
 
 -
@@ -1554,9 +1592,10 @@ Buf
 0
 0
 0
-157A. Jeffery
+157
+A. Jeffery
 WR
-Phi 
+Phi
 10
 
 -
@@ -1593,9 +1632,10 @@ Phi
 0
 0
 0
-159A. Robinson
+159
+A. Robinson
 WR
-Jax 
+Jax
 8
 
 -
@@ -1632,9 +1672,10 @@ Jax
 0
 0
 0
-162D. Brees
+162
+D. Brees
 QB
-NO 
+NO
 5
 
 -
@@ -1671,9 +1712,10 @@ NO
 2
 2
 0
-335T. Hill
+335
+T. Hill
 WR
-KC 
+KC
 10
 
 -
@@ -1710,9 +1752,10 @@ KC
 1
 0
 0
-147C. Hyde
+147
+C. Hyde
 RB
-SF 
+SF
 11
 
 -
@@ -1749,9 +1792,10 @@ SF
 0
 1
 1
-160D. Adams
+160
+D. Adams
 WR
-GB 
+GB
 8
 
 -
@@ -1788,9 +1832,10 @@ GB
 0
 1
 1
-157M. Crabtree
+157
+M. Crabtree
 WR
-Oak 
+Oak
 10
 
 -
@@ -1827,9 +1872,10 @@ Oak
 1.1
 0
 0
-147G. Olsen
+147
+G. Olsen
 TE
-Car 
+Car
 11
 
 -
@@ -1866,9 +1912,10 @@ Car
 0
 1.1
 1.1
-139A. Luck
+139
+A. Luck
 QB
-Ind 
+Ind
 11
 
 -
@@ -1905,9 +1952,10 @@ Ind
 3
 4
 3
-336M. Bryant
+336
+M. Bryant
 WR
-Pit 
+Pit
 9
 
 -
@@ -1944,9 +1992,10 @@ Pit
 0
 1.1
 0
-158S. Ware
+158
+S. Ware
 RB
-KC 
+KC
 10
 
 -
@@ -1983,9 +2032,10 @@ KC
 0
 1
 1
-155J. Reed
+155
+J. Reed
 TE
-Was 
+Was
 5
 
 -
@@ -2022,9 +2072,10 @@ Was
 0
 1.1
 1.1
-132E. Lacy
+132
+E. Lacy
 RB
-Sea 
+Sea
 6
 
 -
@@ -2061,9 +2112,10 @@ Sea
 0
 3
 3
-144E. Sanders
+144
+E. Sanders
 WR
-Den 
+Den
 5
 
 -
@@ -2100,9 +2152,10 @@ Den
 0
 0
 0
-148K. Allen
+148
+K. Allen
 WR
-LAC 
+LAC
 9
 
 -
@@ -2139,9 +2192,10 @@ LAC
 0
 0
 0
-134M. Ingram
+134
+M. Ingram
 RB
-NO 
+NO
 5
 
 -
@@ -2178,9 +2232,10 @@ NO
 0
 3
 1
-152C. Anderson
+152
+C. Anderson
 RB
-Den 
+Den
 5
 
 -
@@ -2217,9 +2272,10 @@ Den
 0
 1
 1
-152J. Edelman
+152
+J. Edelman
 WR
-NE 
+NE
 9
 
 -
@@ -2256,9 +2312,10 @@ NE
 1.1
 2.1
 1.1
-137D. Cook
+137
+D. Cook
 RB
-Min 
+Min
 9
 
 -
@@ -2295,9 +2352,10 @@ Min
 0
 2
 2
-151J. Graham
+151
+J. Graham
 TE
-Sea 
+Sea
 6
 
 -
@@ -2334,9 +2392,10 @@ Sea
 1.1
 1.1
 1.1
-143L. Blount
+143
+L. Blount
 RB
-Phi 
+Phi
 10
 
 -
@@ -2373,9 +2432,10 @@ Phi
 0
 0
 0
-134J. Landry
+134
+J. Landry
 WR
-Mia 
+Mia
 11
 
 -
@@ -2412,9 +2472,10 @@ Mia
 1
 0
 0
-142T. Coleman
+142
+T. Coleman
 RB
-Atl 
+Atl
 5
 
 -
@@ -2451,9 +2512,10 @@ Atl
 0
 0
 0
-148J. Crowder
+148
+J. Crowder
 WR
-Was 
+Was
 5
 
 -
@@ -2490,9 +2552,10 @@ Was
 0
 0
 0
-132M. Mariota
+132
+M. Mariota
 QB
-Ten 
+Ten
 8
 
 -
@@ -2529,9 +2592,10 @@ Ten
 3
 7
 5
-314L. Fitzgerald
+314
+L. Fitzgerald
 WR
-Ari 
+Ari
 8
 
 -
@@ -2568,9 +2632,10 @@ Ari
 1
 0
 0
-127R. Wilson
+127
+R. Wilson
 QB
-Sea 
+Sea
 6
 
 -
@@ -2607,9 +2672,10 @@ Sea
 2
 4
 1
-325A. Abdullah
+325
+A. Abdullah
 RB
-Det 
+Det
 7
 
 -
@@ -2646,9 +2712,10 @@ Det
 0
 2
 1
-118M. Ryan
+118
+M. Ryan
 QB
-Atl 
+Atl
 5
 
 -
@@ -2685,9 +2752,10 @@ Atl
 1
 3
 1
-305A. Peterson
+305
+A. Peterson
 RB
-NO 
+NO
 5
 
 -
@@ -2724,9 +2792,10 @@ NO
 0
 4
 2
-131B. Powell
+131
+B. Powell
 RB
-NYJ 
+NYJ
 11
 
 -
@@ -2763,9 +2832,10 @@ NYJ
 0
 1
 0
-145W. Snead
+145
+W. Snead
 WR
-NO 
+NO
 5
 
 -
@@ -2802,9 +2872,10 @@ NO
 0
 1
 0
-136J. Winston
+136
+J. Winston
 QB
-TB 
+TB
 11
 
 -
@@ -2841,9 +2912,10 @@ TB
 2
 7
 4
-293F. Gore
+293
+F. Gore
 RB
-Ind 
+Ind
 11
 
 -
@@ -2880,9 +2952,10 @@ Ind
 0
 1
 0
-94P. Perkins
+94
+P. Perkins
 RB
-NYG 
+NYG
 8
 
 -
@@ -2919,9 +2992,10 @@ NYG
 0
 2
 2
-164G. Tate
+164
+G. Tate
 WR
-Det 
+Det
 7
 
 -
@@ -2958,9 +3032,10 @@ Det
 0
 0
 0
-144D. Moncrief
+144
+D. Moncrief
 WR
-Ind 
+Ind
 11
 
 -
@@ -2997,9 +3072,10 @@ Ind
 0
 0
 0
-146D. Jackson
+146
+D. Jackson
 WR
-TB 
+TB
 11
 
 -
@@ -3036,9 +3112,10 @@ TB
 0
 2.2
 2.2
-151C. Newton
+151
+C. Newton
 QB
-Car 
+Car
 11
 
 -
@@ -3075,9 +3152,10 @@ Car
 3
 3
 0
-322D. Walker
+322
+D. Walker
 TE
-Ten 
+Ten
 8
 
 -
@@ -3114,9 +3192,10 @@ Ten
 0
 2.1
 1
-117B. Marshall
+117
+B. Marshall
 WR
-NYG 
+NYG
 8
 
 -
@@ -3153,9 +3232,10 @@ NYG
 0
 1
 0
-129T. Williams
+129
+T. Williams
 WR
-LAC 
+LAC
 9
 
 -
@@ -3192,9 +3272,10 @@ LAC
 0
 0
 0
-147B. Roethlisberger
+147
+B. Roethlisberger
 QB
-Pit 
+Pit
 9
 
 -
@@ -3231,9 +3312,10 @@ Pit
 5
 5
 1
-267K. Benjamin
+267
+K. Benjamin
 WR
-Car 
+Car
 11
 
 -
@@ -3270,9 +3352,10 @@ Car
 0
 0
 0
-152S. Perine
+152
+S. Perine
 RB
-Was 
+Was
 5
 
 -
@@ -3309,9 +3392,10 @@ Was
 0
 1
 1
-122C. Meredith
+122
+C. Meredith
 WR
-Chi 
+Chi
 9
 
 -
@@ -3348,9 +3432,10 @@ Chi
 0
 0
 0
-125K. Cousins
+125
+K. Cousins
 QB
-Was 
+Was
 5
 
 -
@@ -3387,9 +3472,10 @@ Was
 1
 4
 1
-311T. Eifert
+311
+T. Eifert
 TE
-Cin 
+Cin
 6
 
 -
@@ -3426,9 +3512,10 @@ Cin
 0
 1
 1
-115D. Martin
+115
+D. Martin
 RB
-TB 
+TB
 11
 
 -
@@ -3465,9 +3552,10 @@ TB
 0
 1.1
 1.1
-151D. Parker
+151
+D. Parker
 WR
-Mia 
+Mia
 11
 
 -
@@ -3504,9 +3592,10 @@ Mia
 0
 0
 0
-156P. Garcon
+156
+P. Garcon
 WR
-SF 
+SF
 11
 
 -
@@ -3543,9 +3632,10 @@ SF
 0
 0
 0
-128K. Rudolph
+128
+K. Rudolph
 TE
-Min 
+Min
 9
 
 -
@@ -3582,9 +3672,10 @@ Min
 0
 0
 0
-120E. Decker
+120
+E. Decker
 WR
-Ten 
+Ten
 8
 
 -
@@ -3621,9 +3712,10 @@ Ten
 0
 0
 0
-123M. Bennett
+123
+M. Bennett
 TE
-GB 
+GB
 8
 
 -
@@ -3660,9 +3752,10 @@ GB
 1.1
 1.1
 1.1
-122D. Henry
+122
+D. Henry
 RB
-Ten 
+Ten
 8
 
 -
@@ -3699,9 +3792,10 @@ Ten
 0
 0
 0
-119P. Rivers
+119
+P. Rivers
 QB
-LAC 
+LAC
 9
 
 -
@@ -3738,9 +3832,10 @@ LAC
 4
 4
 3
-281M. Forte
+281
+M. Forte
 RB
-NYJ 
+NYJ
 11
 
 -
@@ -3777,9 +3872,10 @@ NYJ
 0
 1
 0
-122D. Woodhead
+122
+D. Woodhead
 RB
-Bal 
+Bal
 10
 
 -
@@ -3816,9 +3912,10 @@ Bal
 0
 1
 1
-89Z. Ertz
+89
+Z. Ertz
 TE
-Phi 
+Phi
 10
 
 -
@@ -3855,9 +3952,10 @@ Phi
 1
 1
 1
-112D. Prescott
+112
+D. Prescott
 QB
-Dal 
+Dal
 6
 
 -
@@ -3894,9 +3992,10 @@ Dal
 1
 4
 1
-306J. Maclin
+306
+J. Maclin
 WR
-Bal 
+Bal
 10
 
 -
@@ -3933,9 +4032,10 @@ Bal
 0
 0
 0
-115S. Diggs
+115
+S. Diggs
 WR
-Min 
+Min
 9
 
 -
@@ -3972,9 +4072,10 @@ Min
 0
 0
 0
-134J. Doyle
+134
+J. Doyle
 TE
-Ind 
+Ind
 11
 
 -
@@ -4011,9 +4112,10 @@ Ind
 0
 1
 0
-101J. Stewart
+101
+J. Stewart
 RB
-Car 
+Car
 11
 
 -
@@ -4050,9 +4152,10 @@ Car
 0
 2
 1
-99L. Murray
+99
+L. Murray
 RB
-Min 
+Min
 9
 
 -
@@ -4089,9 +4192,10 @@ Min
 0
 3
 1
-122A. Dalton
+122
+A. Dalton
 QB
-Cin 
+Cin
 6
 
 -
@@ -4128,9 +4232,10 @@ Cin
 2
 5
 2
-290K. Britt
+290
+K. Britt
 WR
-Cle 
+Cle
 9
 
 -
@@ -4167,9 +4272,10 @@ Cle
 0
 0
 0
-129M. Stafford
+129
+M. Stafford
 QB
-Det 
+Det
 7
 
 -
@@ -4206,9 +4312,10 @@ Det
 2
 3
 0
-283R. Cobb
+283
+R. Cobb
 WR
-GB 
+GB
 8
 
 -
@@ -4245,9 +4352,10 @@ GB
 0
 1
 1
-119H. Henry
+119
+H. Henry
 TE
-LAC 
+LAC
 9
 
 -
@@ -4284,9 +4392,10 @@ LAC
 1.1
 1.1
 1.1
-113D. Carr
+113
+D. Carr
 QB
-Oak 
+Oak
 10
 
 -
@@ -4323,9 +4432,10 @@ Oak
 2
 3
 1
-276J. Brown
+276
+J. Brown
 WR
-Ari 
+Ari
 8
 
 -
@@ -4362,9 +4472,10 @@ Ari
 0
 0
 0
-150T. Riddick
+150
+T. Riddick
 RB
-Det 
+Det
 7
 
 -
@@ -4401,9 +4512,10 @@ Det
 0
 0
 0
-110T. Taylor
+110
+T. Taylor
 QB
-Buf 
+Buf
 6
 
 -
@@ -4440,9 +4552,10 @@ Buf
 2
 3
 0
-295A. Thielen
+295
+A. Thielen
 WR
-Min 
+Min
 9
 
 -
@@ -4479,9 +4592,10 @@ Min
 0
 0
 0
-136E. Manning
+136
+E. Manning
 QB
-NYG 
+NYG
 8
 
 -
@@ -4518,9 +4632,10 @@ NYG
 2
 4
 2
-261M. Wallace
+261
+M. Wallace
 WR
-Bal 
+Bal
 10
 
 -
@@ -4557,9 +4672,10 @@ Bal
 0
 2.2
 1.1
-138J. Matthews
+138
+J. Matthews
 WR
-Phi 
+Phi
 10
 
 -
@@ -4596,9 +4712,10 @@ Phi
 0
 0
 0
-121E. Ebron
+121
+E. Ebron
 TE
-Det 
+Det
 7
 
 -
@@ -4635,9 +4752,10 @@ Det
 0
 0
 0
-89C. Coleman
+89
+C. Coleman
 WR
-Cle 
+Cle
 9
 
 -
@@ -4674,9 +4792,10 @@ Cle
 0
 0
 0
-128C. Davis
+128
+C. Davis
 WR
-Ten 
+Ten
 8
 
 -
@@ -4713,9 +4832,10 @@ Ten
 1
 1
 0
-131Q. Enunwa
+131
+Q. Enunwa
 WR
-NYJ 
+NYJ
 11
 
 -
@@ -4752,9 +4872,10 @@ NYJ
 0
 0
 0
-130M. Jones Jr.
+130
+M. Jones Jr.
 WR
-Det 
+Det
 7
 
 -
@@ -4791,9 +4912,10 @@ Det
 0
 0
 0
-124C. Prosise
+124
+C. Prosise
 RB
-Sea 
+Sea
 6
 
 -
@@ -4830,9 +4952,10 @@ Sea
 0
 1
 0
-93R. Matthews
+93
+R. Matthews
 WR
-Ten 
+Ten
 8
 
 -
@@ -4869,9 +4992,10 @@ Ten
 0
 0
 0
-147K. Dixon
+147
+K. Dixon
 RB
-Bal 
+Bal
 10
 
 -
@@ -4908,9 +5032,10 @@ Bal
 0
 1.1
 1.1
-109B. Bortles
+109
+B. Bortles
 QB
-Jax 
+Jax
 8
 
 -
@@ -4947,9 +5072,10 @@ Jax
 4
 5
 5
-285C. Wentz
+285
+C. Wentz
 QB
-Phi 
+Phi
 10
 
 -
@@ -4986,9 +5112,10 @@ Phi
 3
 8.9
 3
-259R. Kelley
+259
+R. Kelley
 RB
-Was 
+Was
 5
 
 -
@@ -5025,9 +5152,10 @@ Was
 0
 2
 1
-94B. Perriman
+94
+B. Perriman
 WR
-Bal 
+Bal
 10
 
 -
@@ -5064,9 +5192,10 @@ Bal
 0
 0
 0
-143C. Palmer
+143
+C. Palmer
 QB
-Ari 
+Ari
 8
 
 -
@@ -5103,9 +5232,10 @@ Ari
 1
 6
 2
-239J. White
+239
+J. White
 RB
-NE 
+NE
 9
 
 -
@@ -5142,9 +5272,10 @@ NE
 1
 0
 0
-111T. Lockett
+111
+T. Lockett
 WR
-Sea 
+Sea
 6
 
 -
@@ -5181,9 +5312,10 @@ Sea
 0
 0
 0
-131A. Gates
+131
+A. Gates
 TE
-LAC 
+LAC
 9
 
 -
@@ -5220,9 +5352,10 @@ LAC
 1.1
 0
 0
-77T. West
+77
+T. West
 RB
-Bal 
+Bal
 10
 
 -
@@ -5259,9 +5392,10 @@ Bal
 0
 2
 2
-122J. Hill
+122
+J. Hill
 RB
-Cin 
+Cin
 6
 
 -
@@ -5298,9 +5432,10 @@ Cin
 0
 0
 0
-93D. Johnson Jr.
+93
+D. Johnson Jr.
 RB
-Cle 
+Cle
 9
 
 -
@@ -5337,9 +5472,10 @@ Cle
 0
 0
 0
-115T. Rawls
+115
+T. Rawls
 RB
-Sea 
+Sea
 6
 
 -
@@ -5376,9 +5512,10 @@ Sea
 0
 0
 0
-67T. Ginn Jr.
+67
+T. Ginn Jr.
 WR
-NO 
+NO
 5
 
 -
@@ -5415,9 +5552,10 @@ NO
 0
 2.1
 2.1
-122C. Brate
+122
+C. Brate
 TE
-TB 
+TB
 11
 
 -
@@ -5454,9 +5592,10 @@ TB
 0
 0
 0
-92C. Fiedorowicz
+92
+C. Fiedorowicz
 TE
-Hou 
+Hou
 7
 
 -
@@ -5493,9 +5632,10 @@ Hou
 0
 1
 1
-82R. Tannehill
+82
+R. Tannehill
 QB
-Mia 
+Mia
 11
 
 -
@@ -5532,9 +5672,10 @@ Mia
 1
 3
 0
-269J. Ross
+269
+J. Ross
 WR
-Cin 
+Cin
 6
 
 -
@@ -5571,9 +5712,10 @@ Cin
 0
 1.1
 1.1
-113J. Witten
+113
+J. Witten
 TE
-Dal 
+Dal
 6
 
 -
@@ -5610,9 +5752,10 @@ Dal
 0
 0
 0
-80W. Fuller V
+80
+W. Fuller V
 WR
-Hou 
+Hou
 7
 
 -
@@ -5649,9 +5792,10 @@ Hou
 0
 0
 0
-107S. Shepard
+107
+S. Shepard
 WR
-NYG 
+NYG
 8
 
 -
@@ -5688,9 +5832,10 @@ NYG
 0
 0
 0
-108A. Hooper
+108
+A. Hooper
 TE
-Atl 
+Atl
 5
 
 -
@@ -5727,9 +5872,10 @@ Atl
 0
 0
 0
-76G. Bernard
+76
+G. Bernard
 RB
-Cin 
+Cin
 6
 
 -
@@ -5766,9 +5912,10 @@ Cin
 0
 1
 1
-93J. Flacco
+93
+J. Flacco
 QB
-Bal 
+Bal
 10
 
 -
@@ -5805,9 +5952,10 @@ Bal
 1
 2
 0
-256J. Thomas
+256
+J. Thomas
 TE
-Mia 
+Mia
 11
 
 -
@@ -5844,9 +5992,10 @@ Mia
 0
 1.1
 1.1
-90K. White
+90
+K. White
 WR
-Chi 
+Chi
 9
 
 -
@@ -5883,9 +6032,10 @@ Chi
 0
 1
 1
-128C. Fleener
+128
+C. Fleener
 TE
-NO 
+NO
 5
 
 -
@@ -5922,9 +6072,10 @@ NO
 0
 0
 0
-100R. Woods
+100
+R. Woods
 WR
-LAR 
+LAR
 8
 
 -
@@ -5961,9 +6112,10 @@ LAR
 0
 0
 0
-108J. Doctson
+108
+J. Doctson
 WR
-Was 
+Was
 5
 
 -
@@ -6000,9 +6152,10 @@ Was
 0
 0
 0
-109K. Stills
+109
+K. Stills
 WR
-Mia 
+Mia
 11
 
 -
@@ -6039,9 +6192,10 @@ Mia
 0
 0
 0
-119J. Charles
+119
+J. Charles
 RB
-Den 
+Den
 5
 
 -
@@ -6078,9 +6232,10 @@ Den
 0
 1
 1
-108D. Njoku
+108
+D. Njoku
 TE
-Cle 
+Cle
 9
 
 -
@@ -6117,9 +6272,10 @@ Cle
 0
 2.1
 2.1
-69Z. Jones
+69
+Z. Jones
 WR
-Buf 
+Buf
 6
 
 -
@@ -6156,9 +6312,10 @@ Buf
 0
 0
 0
-104J. Nelson
+104
+J. Nelson
 WR
-Ari 
+Ari
 8
 
 -
@@ -6195,9 +6352,10 @@ Ari
 0
 0
 0
-114J. Williams
+114
+J. Williams
 RB
-SF 
+SF
 11
 
 -
@@ -6234,9 +6392,10 @@ SF
 0
 0
 0
-102T. Gabriel
+102
+T. Gabriel
 WR
-Atl 
+Atl
 5
 
 -
@@ -6273,9 +6432,10 @@ Atl
 0
 0
 0
-125D. Sproles
+125
+D. Sproles
 RB
-Phi 
+Phi
 10
 
 -
@@ -6312,9 +6472,10 @@ Phi
 0
 0
 0
-92A. Hurns
+92
+A. Hurns
 WR
-Jax 
+Jax
 8
 
 -
@@ -6351,9 +6512,10 @@ Jax
 0
 1.1
 0
-110A. Kamara
+110
+A. Kamara
 RB
-NO 
+NO
 5
 
 -
@@ -6390,9 +6552,10 @@ NO
 0
 0
 0
-71M. Mitchell
+71
+M. Mitchell
 WR
-NE 
+NE
 9
 
 -
@@ -6429,9 +6592,10 @@ NE
 0
 0
 0
-73C. Beasley
+73
+C. Beasley
 WR
-Dal 
+Dal
 6
 
 -
@@ -6468,9 +6632,10 @@ Dal
 0
 0
 0
-96A. Smith
+96
+A. Smith
 QB
-KC 
+KC
 10
 
 -
@@ -6507,9 +6672,10 @@ KC
 1
 4
 1
-213S. Bradford
+213
+S. Bradford
 QB
-Min 
+Min
 9
 
 -
@@ -6546,9 +6712,10 @@ Min
 0
 5
 3
-219M. Mack
+219
+M. Mack
 RB
-Ind 
+Ind
 11
 
 -
@@ -6585,9 +6752,10 @@ Ind
 0
 1
 1
-71Z. Miller
+71
+Z. Miller
 TE
-Chi 
+Chi
 9
 
 -
@@ -6624,9 +6792,10 @@ Chi
 0
 1
 0
-75J. Williams
+75
+J. Williams
 RB
-GB 
+GB
 8
 
 -
@@ -6663,9 +6832,10 @@ GB
 0
 0
 0
-95D. Watson
+95
+D. Watson
 QB
-Hou 
+Hou
 7
 
 -
@@ -6702,9 +6872,10 @@ Hou
 1
 5
 2
-230J. Rodgers
+230
+J. Rodgers
 RB
-TB 
+TB
 11
 
 -
@@ -6741,9 +6912,10 @@ TB
 0
 0
 0
-58R. Anderson
+58
+R. Anderson
 WR
-NYJ 
+NYJ
 11
 
 -
@@ -6780,9 +6952,10 @@ NYJ
 0
 0
 0
-92J. Cook
+92
+J. Cook
 TE
-Oak 
+Oak
 10
 
 -
@@ -6819,9 +6992,10 @@ Oak
 0
 0
 0
-79R. Burkhead
+79
+R. Burkhead
 RB
-NE 
+NE
 9
 
 -
@@ -6858,9 +7032,10 @@ NE
 0
 0
 0
-80D. Funchess
+80
+D. Funchess
 WR
-Car 
+Car
 11
 
 -
@@ -6897,9 +7072,10 @@ Car
 0
 0
 0
-92T. Yeldon
+92
+T. Yeldon
 RB
-Jax 
+Jax
 8
 
 -
@@ -6936,9 +7112,10 @@ Jax
 0
 1
 1
-91R. Turbin
+91
+R. Turbin
 RB
-Ind 
+Ind
 11
 
 -
@@ -6975,9 +7152,10 @@ Ind
 0
 0
 0
-80T. Austin
+80
+T. Austin
 WR
-LAR 
+LAR
 8
 
 -
@@ -7014,9 +7192,10 @@ LAR
 0
 0
 0
-123D. Washington
+123
+D. Washington
 RB
-Oak 
+Oak
 10
 
 -
@@ -7053,9 +7232,10 @@ Oak
 0
 0
 0
-85D. Lewis
+85
+D. Lewis
 RB
-NE 
+NE
 9
 
 -
@@ -7092,9 +7272,10 @@ NE
 0
 0
 0
-71C. Hogan
+71
+C. Hogan
 WR
-NE 
+NE
 9
 
 -
@@ -7131,9 +7312,10 @@ NE
 0
 0
 0
-65O. Howard
+65
+O. Howard
 TE
-TB 
+TB
 11
 
 -
@@ -7170,9 +7352,10 @@ TB
 1.1
 1.1
 1.1
-92R. Mathews
+92
+R. Mathews
 RB
-Phi 
+Phi
 10
 
 -
@@ -7209,9 +7392,10 @@ Phi
 1.1
 1
 1
-110M. Sanu
+110
+M. Sanu
 WR
-Atl 
+Atl
 5
 
 -
@@ -7248,9 +7432,10 @@ Atl
 0
 0
 0
-96C. Sims
+96
+C. Sims
 RB
-TB 
+TB
 11
 
 -
@@ -7287,9 +7472,10 @@ TB
 0
 1
 1
-105T. Smith
+105
+T. Smith
 WR
-Phi 
+Phi
 10
 
 -
@@ -7326,9 +7512,10 @@ Phi
 0
 0
 0
-112J. McNichols
+112
+J. McNichols
 RB
-TB 
+TB
 11
 
 -
@@ -7365,9 +7552,10 @@ TB
 0
 0
 0
-31M. Glennon
+31
+M. Glennon
 QB
-Chi 
+Chi
 9
 
 -
@@ -7404,9 +7592,10 @@ Chi
 1
 4
 2
-207T. Siemian
+207
+T. Siemian
 QB
-Den 
+Den
 5
 
 -
@@ -7443,9 +7632,10 @@ Den
 0
 4
 0
-145T. Boyd
+145
+T. Boyd
 WR
-Cin 
+Cin
 6
 
 -
@@ -7482,9 +7672,10 @@ Cin
 0
 0
 0
-88C. Kupp
+88
+C. Kupp
 WR
-LAR 
+LAR
 8
 
 -
@@ -7521,9 +7712,10 @@ LAR
 0
 0
 0
-0B. Hoyer
+0
+B. Hoyer
 QB
-SF 
+SF
 11
 
 -
@@ -7560,9 +7752,10 @@ SF
 1
 3
 0
-197C. Kessler
+197
+C. Kessler
 QB
-Cle 
+Cle
 9
 
 -
@@ -7599,9 +7792,10 @@ Cle
 1
 4
 2
-193D. Foreman
+193
+D. Foreman
 RB
-Hou 
+Hou
 7
 
 -
@@ -7638,9 +7832,10 @@ Hou
 0
 1
 1
-84C. Clay
+84
+C. Clay
 TE
-Buf 
+Buf
 6
 
 -
@@ -7677,9 +7872,10 @@ Buf
 0
 1
 1
-83B. LaFell
+83
+B. LaFell
 WR
-Cin 
+Cin
 6
 
 -
@@ -7716,9 +7912,10 @@ Cin
 0
 0
 0
-104T. Benjamin
+104
+T. Benjamin
 WR
-LAC 
+LAC
 9
 
 -
@@ -7755,9 +7952,10 @@ LAC
 0
 0
 0
-63E. Engram
+63
+E. Engram
 TE
-NYG 
+NYG
 8
 
 -
@@ -7794,9 +7992,10 @@ NYG
 0
 1
 1
-73C. Conley
+73
+C. Conley
 WR
-KC 
+KC
 10
 
 -
@@ -7833,9 +8032,10 @@ KC
 0
 0
 0
-74A. Boldin
+74
+A. Boldin
 WR
-Buf 
+Buf
 6
 
 -
@@ -7872,9 +8072,10 @@ Buf
 0
 0
 0
-0J. James
+0
+J. James
 TE
-Pit 
+Pit
 9
 
 -
@@ -7911,9 +8112,10 @@ Pit
 0
 0
 0
-89M. Floyd
+89
+M. Floyd
 WR
-Min 
+Min
 9
 
 -
@@ -7950,9 +8152,10 @@ Min
 0
 0
 0
-49P. Lynch
+49
+P. Lynch
 QB
-Den 
+Den
 5
 
 -
@@ -7989,9 +8192,10 @@ Den
 0
 2
 0
-77M. Williams
+77
+M. Williams
 WR
-LAC 
+LAC
 9
 
 -
@@ -8028,9 +8232,10 @@ LAC
 0
 1.1
 1.1
-110J. McCown
+110
+J. McCown
 QB
-NYJ 
+NYJ
 11
 
 -
@@ -8067,9 +8272,10 @@ NYJ
 1
 6
 4
-90E. Rogers
+90
+E. Rogers
 WR
-Pit 
+Pit
 9
 
 -
@@ -8106,9 +8312,10 @@ Pit
 0
 0
 0
-70C. Samuel
+70
+C. Samuel
 WR
-Car 
+Car
 11
 
 -
@@ -8145,9 +8352,10 @@ Car
 0
 0
 0
-111M. Wheaton
+111
+M. Wheaton
 WR
-Chi 
+Chi
 9
 
 -
@@ -8184,9 +8392,10 @@ Chi
 0
 0
 0
-102D. Allen
+102
+D. Allen
 TE
-NE 
+NE
 9
 
 -
@@ -8223,9 +8432,10 @@ NE
 0
 0
 0
-79A. Derby
+79
+A. Derby
 TE
-Den 
+Den
 5
 
 -
@@ -8262,9 +8472,10 @@ Den
 0
 0
 0
-0A. Seferian-Jenkins
+0
+A. Seferian-Jenkins
 TE
-NYJ 
+NYJ
 11
 
 -
@@ -8301,9 +8512,10 @@ NYJ
 0
 0
 0
-0J. Goff
+0
+J. Goff
 QB
-LAR 
+LAR
 8
 
 -
@@ -8340,9 +8552,10 @@ LAR
 1
 5
 3
-170P. Richardson
+170
+P. Richardson
 WR
-Sea 
+Sea
 6
 
 -
@@ -8379,9 +8592,10 @@ Sea
 0
 0
 0
-73T. Williams
+73
+T. Williams
 WR
-Dal 
+Dal
 6
 
 -
@@ -8418,9 +8632,10 @@ Dal
 0
 0
 0
-95A. Wilson
+95
+A. Wilson
 WR
-KC 
+KC
 10
 
 -
@@ -8457,9 +8672,10 @@ KC
 0
 0
 0
-0J. Richard
+0
+J. Richard
 RB
-Oak 
+Oak
 10
 
 -
@@ -8496,9 +8712,10 @@ Oak
 0
 0
 0
-97T. Higbee
+97
+T. Higbee
 TE
-LAR 
+LAR
 8
 
 -
@@ -8535,9 +8752,10 @@ LAR
 0
 0
 0
-46K. Wright
+46
+K. Wright
 WR
-Chi 
+Chi
 9
 
 -
@@ -8574,9 +8792,10 @@ Chi
 0
 0
 0
-0J. Gordon
+0
+J. Gordon
 WR
-Cle 
+Cle
 9
 
 -
@@ -8613,9 +8832,10 @@ Cle
 0
 0
 0
-0K. Golladay
+0
+K. Golladay
 WR
-Det 
+Det
 7
 
 -
@@ -8652,9 +8872,10 @@ Det
 0
 0
 0
-72L. Kendricks
+72
+L. Kendricks
 TE
-GB 
+GB
 8
 
 -
@@ -8691,9 +8912,10 @@ GB
 0
 0
 0
-50D. Williams
+50
+D. Williams
 RB
-Pit 
+Pit
 9
 
 -
@@ -8730,9 +8952,10 @@ Pit
 0
 0
 0
-0M. Jones
+0
+M. Jones
 RB
-Was 
+Was
 5
 
 -
@@ -8769,9 +8992,10 @@ Was
 0
 0
 0
-50C. Kaepernick
+50
+C. Kaepernick
 QB
-SF 
+SF
 11
 
 -
@@ -8808,9 +9032,10 @@ SF
 0
 0
 0
-0R. Jennings
+0
+R. Jennings
 RB
-NYG 
+NYG
 8
 
 -
@@ -8847,9 +9072,10 @@ NYG
 0
 0
 0
-0L. Green
+0
+L. Green
 TE
-Pit 
+Pit
 9
 
 -
@@ -8886,9 +9112,10 @@ Pit
 0
 0
 0
-0V. McDonald
+0
+V. McDonald
 TE
-SF 
+SF
 11
 
 -
@@ -8925,9 +9152,10 @@ SF
 0
 0
 0
-76G. Barnidge
+76
+G. Barnidge
 TE
-Cle 
+Cle
 9
 
 -
@@ -8966,7 +9194,7 @@ Cle
 0
 0C. Ivory
 RB
-Jax 
+Jax
 8
 
 -
@@ -9005,7 +9233,7 @@ Jax
 0
 49T. Hightower
 RB
-SF 
+SF
 11
 
 -
@@ -9044,7 +9272,7 @@ SF
 0
 54M. Lee
 WR
-Jax 
+Jax
 8
 
 -
@@ -9083,7 +9311,7 @@ Jax
 0
 128D. Inman
 WR
-LAC 
+LAC
 9
 
 -
@@ -9122,7 +9350,7 @@ LAC
 0
 74J. Tamme
 TE
-Atl 
+Atl
 5
 
 -
@@ -9161,7 +9389,7 @@ Atl
 0
 0C. Michael
 RB
-Ind 
+Ind
 11
 
 -
@@ -9200,7 +9428,7 @@ Ind
 0
 0D. Pitta
 TE
-Bal 
+Bal
 10
 
 -
@@ -9239,7 +9467,7 @@ Bal
 0
 0V. Davis
 TE
-Was 
+Was
 5
 
 -
@@ -9278,7 +9506,7 @@ Was
 0
 77J. McKinnon
 RB
-Min 
+Min
 9
 
 -
@@ -9317,7 +9545,7 @@ Min
 0
 80E. Royal
 WR
-Chi 
+Chi
 9
 
 -
@@ -9356,7 +9584,7 @@ Chi
 0
 0D. Booker
 RB
-Den 
+Den
 5
 
 -
@@ -9395,7 +9623,7 @@ Den
 0
 75C. Thompson
 RB
-Was 
+Was
 5
 
 -
@@ -9434,7 +9662,7 @@ Was
 0
 91Z. Zenner
 RB
-Det 
+Det
 7
 
 -
@@ -9473,7 +9701,7 @@ Det
 0
 51G. Celek
 TE
-SF 
+SF
 11
 
 -
@@ -9512,7 +9740,7 @@ SF
 0
 50C. Walford
 TE
-Oak 
+Oak
 10
 
 -
@@ -9551,7 +9779,7 @@ Oak
 0
 58R. Griffin
 TE
-Hou 
+Hou
 7
 
 -
@@ -9590,7 +9818,7 @@ Hou
 0
 0S. Vereen
 RB
-NYG 
+NYG
 8
 
 -
@@ -9629,7 +9857,7 @@ NYG
 0
 87A. Humphries
 WR
-TB 
+TB
 11
 
 -
@@ -9668,7 +9896,7 @@ TB
 0
 59J. Forsett
 RB
-Den 
+Den
 5
 
 -
@@ -9707,7 +9935,7 @@ Den
 0
 0S. Roberts
 WR
-Oak 
+Oak
 10
 
 -
@@ -9746,7 +9974,7 @@ Oak
 0
 81D. Heyward-Bey
 WR
-Pit 
+Pit
 9
 
 -
@@ -9785,7 +10013,7 @@ Pit
 0
 0C. Gillmore
 TE
-Bal 
+Bal
 10
 
 -
@@ -9824,7 +10052,7 @@ Bal
 0
 0B. Gabbert
 QB
-Ari 
+Ari
 8
 
 -
@@ -9863,7 +10091,7 @@ Ari
 0
 0R. Rodgers
 TE
-GB 
+GB
 8
 
 -
@@ -9902,7 +10130,7 @@ GB
 0
 0D. Sims
 TE
-Chi 
+Chi
 9
 
 -
@@ -9941,7 +10169,7 @@ Chi
 0
 57C. Uzomah
 TE
-Cin 
+Cin
 6
 
 -
@@ -9980,7 +10208,7 @@ Cin
 0
 0M. Asiata
 RB
-Det 
+Det
 7
 
 -
@@ -10019,7 +10247,7 @@ Det
 0
 59W. Tye
 TE
-NYG 
+NYG
 8
 
 -
@@ -10058,7 +10286,7 @@ NYG
 0
 0J. Langford
 RB
-Chi 
+Chi
 9
 
 -
@@ -10097,7 +10325,7 @@ Chi
 0
 49J. Kerley
 WR
-SF 
+SF
 11
 
 -
@@ -10136,7 +10364,7 @@ SF
 0
 85K. Williams
 RB
-Ari 
+Ari
 8
 
 -
@@ -10175,7 +10403,7 @@ Ari
 0
 47S. Draughn
 RB
-NYG 
+NYG
 8
 
 -
@@ -10214,7 +10442,7 @@ NYG
 0
 51J. Starks
 RB
-GB 
+GB
 8
 
 -
@@ -10253,7 +10481,7 @@ GB
 0
 0D. Amendola
 WR
-NE 
+NE
 9
 
 -
@@ -10292,7 +10520,7 @@ NE
 0
 0B. Watson
 TE
-Bal 
+Bal
 10
 
 -
@@ -10331,7 +10559,7 @@ Bal
 0
 0V. Jackson
 WR
-TB 
+TB
 11
 
 -
@@ -10370,7 +10598,7 @@ TB
 0
 0G. Allison
 WR
-GB 
+GB
 8
 
 -
@@ -10409,7 +10637,7 @@ GB
 0
 62C. West
 RB
-KC 
+KC
 10
 
 -
@@ -10448,7 +10676,7 @@ KC
 0
 56J. Gresham
 TE
-Ari 
+Ari
 8
 
 -
@@ -10487,7 +10715,7 @@ Ari
 0
 63J. Hunter
 WR
-Pit 
+Pit
 9
 
 -
@@ -10526,7 +10754,7 @@ Pit
 0
 0V. Cruz
 WR
-Chi 
+Chi
 9
 
 -
@@ -10565,7 +10793,7 @@ Chi
 0
 0C. Johnson
 RB
-Ari 
+Ari
 8
 
 -
@@ -10604,7 +10832,7 @@ Ari
 0
 0S. DeValve
 TE
-Cle 
+Cle
 9
 
 -
@@ -10643,7 +10871,7 @@ Cle
 0
 0D. Green-Beckham
 WR
-Phi 
+Phi
 10
 
 -
@@ -10682,7 +10910,7 @@ Phi
 0
 0J. Kearse
 WR
-Sea 
+Sea
 6
 
 -
@@ -10721,7 +10949,7 @@ Sea
 0
 70S. Coates
 WR
-Pit 
+Pit
 9
 
 -
@@ -10760,7 +10988,7 @@ Pit
 0
 0M. Goodwin
 WR
-SF 
+SF
 11
 
 -
@@ -10799,7 +11027,7 @@ SF
 0
 76D. Fells
 TE
-Det 
+Det
 7
 
 -
@@ -10838,7 +11066,7 @@ Det
 0
 0D. Brown
 TE
-Chi 
+Chi
 9
 
 -
@@ -10877,7 +11105,7 @@ Chi
 0
 0P. Dorsett
 WR
-Ind 
+Ind
 11
 
 -
@@ -10916,7 +11144,7 @@ Ind
 0
 102E. Swoope
 TE
-Ind 
+Ind
 11
 
 -
@@ -10955,7 +11183,7 @@ Ind
 0
 0X. Grimble
 TE
-Pit 
+Pit
 9
 
 -
@@ -10994,7 +11222,7 @@ Pit
 0
 0V. Green
 TE
-Den 
+Den
 5
 
 -
@@ -11033,7 +11261,7 @@ Den
 0
 56B. Quick
 WR
-Was 
+Was
 5
 
 -
@@ -11072,7 +11300,7 @@ Was
 0
 67M. Moore
 QB
-Mia 
+Mia
 11
 
 -
@@ -11111,7 +11339,7 @@ Mia
 0
 0L. Donnell
 TE
-Bal 
+Bal
 10
 
 -
@@ -11150,7 +11378,7 @@ Bal
 0
 0T. Sharpe
 WR
-Ten 
+Ten
 8
 
 -
@@ -11189,7 +11417,7 @@ Ten
 0
 64M. Rivera
 TE
-Jax 
+Jax
 8
 
 -
@@ -11228,7 +11456,7 @@ Jax
 0
 58L. Toilolo
 TE
-Atl 
+Atl
 5
 
 -
@@ -11267,7 +11495,7 @@ Atl
 0
 0J. Hill
 TE
-NO 
+NO
 5
 
 -
@@ -11306,7 +11534,7 @@ NO
 0
 52R. Randle
 WR
-Chi 
+Chi
 9
 
 -
@@ -11345,7 +11573,7 @@ Chi
 0
 0L. Willson
 TE
-Sea 
+Sea
 6
 
 -
@@ -11384,7 +11612,7 @@ Sea
 0
 0J. Brown
 WR
-Ari 
+Ari
 8
 
 -
@@ -11423,7 +11651,7 @@ Ari
 0
 50D. McFadden
 RB
-Dal 
+Dal
 6
 
 -
@@ -11462,7 +11690,7 @@ Dal
 0
 39B. Osweiler
 QB
-Cle 
+Cle
 9
 
 -
@@ -11501,7 +11729,7 @@ Cle
 1
 34S. Johnson
 WR
-LAC 
+LAC
 9
 
 -
@@ -11540,7 +11768,7 @@ LAC
 0
 0C. Patterson
 WR
-Oak 
+Oak
 10
 
 -
@@ -11579,7 +11807,7 @@ Oak
 0
 70T. Burton
 TE
-Phi 
+Phi
 10
 
 -
@@ -11618,7 +11846,7 @@ Phi
 0
 0J. Heuerman
 TE
-Den 
+Den
 5
 
 -
@@ -11657,7 +11885,7 @@ Den
 0
 0K. Aiken
 WR
-Ind 
+Ind
 11
 
 -
@@ -11696,7 +11924,7 @@ Ind
 0
 94A. Fasano
 TE
-Mia 
+Mia
 11
 
 -
@@ -11735,7 +11963,7 @@ Mia
 0
 0B. Celek
 TE
-Phi 
+Phi
 10
 
 -
