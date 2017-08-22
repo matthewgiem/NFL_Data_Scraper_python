@@ -1,5 +1,10 @@
-class Player(object):
-    name = ""
+class Player:
+
+    def __init__(self, name, **kwargs):
+        self.name = name
+
+        for key, value in kwargs.items():
+            setattr(self, key, value)
     team = ""
     age = 0
     passing_yrd = 0
@@ -30,16 +35,6 @@ class Player(object):
     fgm_20_29 = 0
     fgm_30_39 = 0
     fgm_40_49 = 0
-    fgm_50+ = 0
+    fgm_50 = 0
     pat = 0
     bye_week = 0
-
-    # The class "constructor" - It's actually an initializer
-    def __init__(self, name, age, major):
-        self.name = name
-        self.age = age
-        self.major = major
-
-def make_student(name, age, major):
-    student = Student(name, age, major)
-    return student

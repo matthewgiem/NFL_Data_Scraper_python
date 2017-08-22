@@ -1,6 +1,7 @@
 import re
 import urllib2
 from bs4 import BeautifulSoup
+from player_object import Player
 
 
 
@@ -35,6 +36,9 @@ data = open("football_stats.txt")
 to_print = data.read()
 data.close()
 print(re.split('(\W)', to_print))
+
+matt = Player("matt", age=32)
+print(matt.name)
 
 
 # from pyth.plugins.rtf15.reader import Rtf15Reader
