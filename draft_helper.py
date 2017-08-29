@@ -37,17 +37,19 @@ to_print = data.read()
 data.close()
 # print(re.split('(\W)', to_print))
 array = []
-array = re.split('(\W)', to_print)
+array = re.split('(\n)', to_print)
 player_array = []
 new_array = []
 for item in array:
     player_array.append(item)
     if len(player_array) == 80:
+        player_array = filter(lambda x: x != '\n', player_array)
         new_array.append(player_array)
         player_array = []
-
-# print(new_array[3])
-print(len(array))
+# new_array = list(filter(lambda x: x != '\n', new_array))
+print(new_array[4])
+print(len(new_array))
+# print(array)
 # for i, j in enumerate(array):
 #     if i%80==0:
 #         print(j)

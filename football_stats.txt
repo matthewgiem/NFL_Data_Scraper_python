@@ -1,38 +1,3 @@
-
-
-
-
-
-MY NOTES & RANKING
-PROJECTIONS (Yahoo! / Fantasy Pros ECR)
-
-
-
-
-
-
-
-
-
-GAMES
-
-PASSING
-
-
-
-RUSHING
-
-
-
-RECEIVING
-
-
-
-RETURN
-
-MISC
-FUM
-
 TOTALPlayer
 Pos
 Team
@@ -48,7 +13,7 @@ Std
 PPR
 Δ
 
-% Own
+%Own
 GP
 GS
 Comp
