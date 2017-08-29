@@ -35,10 +35,26 @@ from player_object import Player
 data = open("football_stats.txt")
 to_print = data.read()
 data.close()
-print(re.split('(\W)', to_print))
+# print(re.split('(\W)', to_print))
+array = []
+array = re.split('(\W)', to_print)
+player_array = []
+new_array = []
+for item in array:
+    player_array.append(item)
+    if len(player_array) == 80:
+        new_array.append(player_array)
+        player_array = []
 
-matt = Player("matt", age=32)
-print(matt.name)
+# print(new_array[3])
+print(len(array))
+# for i, j in enumerate(array):
+#     if i%80==0:
+#         print(j)
+
+
+# matt = Player("matt", age=32)
+# print(matt.name)
 
 
 # from pyth.plugins.rtf15.reader import Rtf15Reader
