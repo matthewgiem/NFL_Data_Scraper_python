@@ -6,6 +6,7 @@ class Player:
         for key, value in kwargs.items():
             setattr(self, key, value)
     team = ""
+    bye = 0
     age = 0
     passing_yrd = 0
     passing_td = 0
@@ -37,4 +38,3 @@ class Player:
     fgm_40_49 = 0
     fgm_50 = 0
     pat = 0
-    bye_week = 0

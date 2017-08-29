@@ -47,12 +47,16 @@ for item in array:
         new_array.append(player_array)
         player_array = []
 # new_array = list(filter(lambda x: x != '\n', new_array))
-print(new_array[4])
-print(len(new_array))
-# print(array)
-# for i, j in enumerate(array):
-#     if i%80==0:
-#         print(j)
+# print(new_array[4])
+# print(len(new_array))
+# print(new_array)
+list_of_players = []
+for item in new_array:
+    list_of_players.append(Player(item[0], team = item[2]))
+
+print(list_of_players[1].team)
+print(list_of_players[1].name)
+
 
 
 # matt = Player("matt", age=32)
