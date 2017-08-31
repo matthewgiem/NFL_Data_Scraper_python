@@ -1,7 +1,7 @@
 TOTALPlayer
 Pos
-Team
-Bye
+team
+bye
 Notes
 Rank
 Y!
