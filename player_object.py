@@ -6,6 +6,7 @@ class Player:
         for key, value in kwargs.items():
             setattr(self, key, value)
     team = ""
+    position = ""
     bye = 0
     age = 0
     passing_yrd = 0
