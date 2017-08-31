@@ -38,3 +38,4 @@ class Player:
     fgm_40_49 = 0
     fgm_50 = 0
     pat = 0
+    expected_points = 0

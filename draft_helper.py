@@ -35,7 +35,6 @@ from player_object import Player
 data = open("football_stats.txt")
 to_print = data.read()
 data.close()
-# print(re.split('(\W)', to_print))
 array = []
 array = re.split('(\n)', to_print)
 player_array = []
@@ -46,31 +45,44 @@ for item in array:
         player_array = filter(lambda x: x != '\n', player_array)
         new_array.append(player_array)
         player_array = []
-
-# print(new_array[4])
-# print(len(new_array))
-# print(new_array)
 list_of_players = []
 for item in new_array:
-    list_of_players.append(Player(item[0], team = item[2], bye = item[3], passing_yrd = item[20], passing_td = item[21], passing_int = item[22], rushing_att = item[25], rushing_yrd = item[27], rushing_td = item[27], receiving_trg = item[29], receiving_rec = item[30], receiving_yrd = item[31], receiving_td = item[32], misc_2pt = item[36], fum_lost = item[38], games_played = item[16], games_started = item[17]))
+    list_of_players.append(Player(item[0], team = item[1], bye = item[2], passing_yrd = item[20], passing_td = item[21], passing_int = item[22], rushing_att = item[25], rushing_yrd = item[26], rushing_td = item[27], receiving_trg = item[29], receiving_rec = item[30], receiving_yrd = item[31], receiving_td = item[32], misc_2pt = item[36], fum_lost = item[38], games_played = item[16], games_started = item[17]))
+
+
+# order the players based on how much they are expected to produce
+
+for player in list_of_players:
+    player.expected_points = float(player.passing_yrd)/25 + float(player.passing_td)*6 + float(player.passing_int)*(-1) + float(player.rushing_yrd)/10 + float(player.rushing_td)*6 + float(player.receiving_yrd)/13 + float(player.receiving_td)*6 + float(player.misc_2pt)*2 + float(player.fum_lost)*(-2)
+
+
+print("name " + list_of_players[29].name)
+print("bye week for the {} is ".format(list_of_players[29].team) + list_of_players[29].bye)
+print("passing yards = " + list_of_players[29].passing_yrd)
+print("passing touchdowns = " + list_of_players[29].passing_td)
+print("passing interceptions = " + list_of_players[29].passing_int)
+print("rushing touchdowns = " + list_of_players[29].rushing_td)
+print("rushing yards = " + list_of_players[29].rushing_yrd)
+print("receptions = " + list_of_players[29].receiving_rec)
+print("recieving touchdowns = " + list_of_players[29].receiving_td)
+print("recieving yards = " + list_of_players[29].receiving_yrd)
+print("2pt conversions = " + list_of_players[29].misc_2pt)
+print("fumbles lost = " + list_of_players[29].fum_lost)
+print("games played = " + list_of_players[29].games_played)
+print("games started = " + list_of_players[29].games_started)
+
+print("expected points = " + str(list_of_players[29].expected_points))
+
 
     # (tack_solo = item[], tack_ast = item[], sack = item[], safety = item[], pass_deff = item[], blk_kick = item[], turnover_int = item[], fum_force = item[], fum_recover = item[], defensive_td = item[], fgm_0_19 = item[], fgm_20_29 = item[], fgm_30_39 = item[], fgm_40_49 = item[], fgm_50 = item[], pat = item[],  return_yrd = item[], return_td = item[], age = item[]) items not tracked yet
 
+# test to see if it works
 
-print(list_of_players[1].team)
-print(list_of_players[1].name)
-print(list_of_players[1].bye)
-print(list_of_players[4].name + " " + list_of_players[4].team + " " + list_of_players[4].rushing_att)
-
-
-
-# matt = Player("matt", age=32)
-# print(matt.name)
+# print(list_of_players[1].team)
+# print(list_of_players[1].name)
+# print(list_of_players[1].bye)
+# print(list_of_players[4].name + " " + list_of_players[4].team + " " + list_of_players[4].rushing_att)
 
 
-# from pyth.plugins.rtf15.reader import Rtf15Reader
-# from pyth.plugins.plaintext.writer import PlaintextWriter
-#
-# doc = Rtf15Reader.read(open('football_stats.txt'))
-#
-# print PlaintextWriter.write(doc).getvalue()
+# for player in list_of_players:
+#     print('the expected points for {}, is {}'.format(player.name, int(player.expected_points)))
