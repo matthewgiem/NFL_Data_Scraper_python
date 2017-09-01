@@ -40,9 +40,10 @@ array = re.split('(\n)', to_print)
 player_array = []
 new_array = []
 for item in array:
-    player_array.append(item)
-    if len(player_array) == 80:
-        player_array = filter(lambda x: x != '\n', player_array)
+    if item != '\n':
+        player_array.append(item)
+    if len(player_array) == 40:
+        # player_array = filter(lambda x: x != '\n', player_array)
         new_array.append(player_array)
         player_array = []
 list_of_players = []
@@ -57,8 +58,44 @@ for player in list_of_players:
 
 list_of_players.sort(key=lambda x: x.expected_points, reverse=True)
 
+# for player in list_of_players:
+#     print("{} plays {} and is expected to get {} points".format(player.name, player.position,  int(player.expected_points)))
+QB_average = 0
+counter = 0
+
 for player in list_of_players:
-    print("{} is expected to get {} points".format(player.name, player.expected_points))
+    if player.position == "QB":
+        QB_average = QB_average + player.expected_points
+        counter += 1
+        if counter == 16:
+            QB_average = QB_average/16
+            counter = 0
+            break
+
+for player in list_of_players:
+    if player.position == "QB":
+        player.diff = player.expected_points - QB_average
+
+
+
+print("the average expected points for the first 16  QB's is {}".format(QB_average))
+
+
+
+for players in list_of_players:
+    if counter == 0:
+        print("these are the expected starting QB's")
+    if counter == 16:
+        print("these are the expeced bench QB's")
+    if players.position == "QB":
+        counter += 1
+        print("{} position {}, points {} their added value is {}".format(players.name, players.position, players.expected_points, int(players.diff)))
+        if counter == 32:
+            counter = 0
+            break
+
+
+
 
 
 # print("name " + list_of_players[29].name + " plays the position {}".format(list_of_players[29].position))
