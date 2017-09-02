@@ -60,39 +60,43 @@ list_of_players.sort(key=lambda x: x.expected_points, reverse=True)
 
 # for player in list_of_players:
 #     print("{} plays {} and is expected to get {} points".format(player.name, player.position,  int(player.expected_points)))
-QB_average = 0
-counter = 0
 
-for player in list_of_players:
-    if player.position == "QB":
-        QB_average = QB_average + player.expected_points
-        counter += 1
-        if counter == 16:
-            QB_average = QB_average/16
-            counter = 0
-            break
+# loop through all the positions
 
-for player in list_of_players:
-    if player.position == "QB":
-        player.diff = player.expected_points - QB_average
+positions = {"QB": "QB_average", "RB": "RB_average", "WR": "WR_average", "TE": "TE_average"}
+position_loop = ["QB", "RB", "WR", "TE"]
+# prints out ppositions average along with how far off that average each player is
+for x in position_loop:
+    average = {"QB_average": 0, "RB_average": 0, "WR_average": 0, "TE_average": 0}
+    counter = 0
 
+    for player in list_of_players:
+        if player.position == "{}".format(x):
+            average[positions[x]] =  average[positions[x]] + player.expected_points
+            counter += 1
+            if counter == 16:
+                average[positions[x]] = average[positions[x]]/16
+                counter = 0
+                break
 
+    for player in list_of_players:
+        if player.position == "{}".format(x):
+            player.diff = player.expected_points - average[positions[x]]
 
-print("the average expected points for the first 16  QB's is {}".format(QB_average))
+    print("the average expected points for the first 16  {}'s is {}".format(x, average[positions[x]]))
 
+    for player in list_of_players:
+        if player.position == "{}".format(x):
+            if counter == 0:
+                print("these are the starting {} average points".format(x))
+            if counter == 16:
+                print("these are the bench {} avefage points".format(x))
+            if player.position == "{}".format(x):
+                counter += 1
+                print("{} expected points is {}, and the deviation from the mean is {}".format(player.name, int(player.expected_points), int(player.diff)))
+                if counter == 32:
+                    break
 
-
-for players in list_of_players:
-    if counter == 0:
-        print("these are the expected starting QB's")
-    if counter == 16:
-        print("these are the expeced bench QB's")
-    if players.position == "QB":
-        counter += 1
-        print("{} position {}, points {} their added value is {}".format(players.name, players.position, players.expected_points, int(players.diff)))
-        if counter == 32:
-            counter = 0
-            break
 
 
 
